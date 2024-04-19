@@ -1,5 +1,18 @@
 # Change Log
 
+## [0.11.0](https://github.com/bazelbuild/vscode-bazel/compare/0.10.0...v0.11.0) (2024-04-19)
+
+
+### Features
+
+* Cmd-click to jump to a source file from a build rule ([#380](https://github.com/bazelbuild/vscode-bazel/issues/380)) ([fa38d08](https://github.com/bazelbuild/vscode-bazel/commit/fa38d08eceedf56777cfff2b8b0f74477e623154))
+* syntax highlighting for .bazelrc ([#379](https://github.com/bazelbuild/vscode-bazel/issues/379)) ([2aea27e](https://github.com/bazelbuild/vscode-bazel/commit/2aea27e45cca43e7f20b673f331b3c994c195e99)), closes [#259](https://github.com/bazelbuild/vscode-bazel/issues/259)
+
+
+### Bug Fixes
+
+* Link the full label / file name instead of individual components ([#382](https://github.com/bazelbuild/vscode-bazel/issues/382)) ([2e207c9](https://github.com/bazelbuild/vscode-bazel/commit/2e207c9647881f335afa7288d7f05b70818be8bd))
+
 ## [0.10.0](https://github.com/bazelbuild/vscode-bazel/compare/0.9.0...v0.10.0) (2024-04-09)
 
 
